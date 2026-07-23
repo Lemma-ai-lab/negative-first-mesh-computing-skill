@@ -1,0 +1,381 @@
+{
+  "project": "Negative-First Mesh Computing",
+  "documents": {
+    "ko": "README.ko.md",
+    "en": "README.en.md",
+    "ja": "README.ja.md",
+    "zh-CN": "README.zh-CN.md"
+  },
+  "default": "README.md",
+  "validation": {
+    "README.md": {
+      "bytes": 29593,
+      "lines": 1129,
+      "numbered_sections": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "all_23_sections": true,
+      "code_fence_count": 82,
+      "code_fences_balanced": true,
+      "has_language_nav": true
+    },
+    "README.ko.md": {
+      "bytes": 29593,
+      "lines": 1129,
+      "numbered_sections": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "all_23_sections": true,
+      "code_fence_count": 82,
+      "code_fences_balanced": true,
+      "has_language_nav": true
+    },
+    "README.en.md": {
+      "bytes": 30962,
+      "lines": 1129,
+      "numbered_sections": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "all_23_sections": true,
+      "code_fence_count": 82,
+      "code_fences_balanced": true,
+      "has_language_nav": true
+    },
+    "README.ja.md": {
+      "bytes": 31335,
+      "lines": 1129,
+      "numbered_sections": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "all_23_sections": true,
+      "code_fence_count": 82,
+      "code_fences_balanced": true,
+      "has_language_nav": true
+    },
+    "README.zh-CN.md": {
+      "bytes": 27402,
+      "lines": 1129,
+      "numbered_sections": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "all_23_sections": true,
+      "code_fence_count": 82,
+      "code_fences_balanced": true,
+      "has_language_nav": true
+    }
+  },
+  "skills": {
+    "default": "SKILL.md",
+    "ko": "SKILL.ko.md",
+    "en": "SKILL.en.md",
+    "ja": "SKILL.ja.md",
+    "zh-CN": "SKILL.zh-CN.md"
+  },
+  "skill_validation": {
+    "SKILL.md": {
+      "lines": 427,
+      "bytes": 13650,
+      "frontmatter": true,
+      "sections_1_to_12": true,
+      "code_fences_balanced": true,
+      "language_navigation": true
+    },
+    "SKILL.ko.md": {
+      "lines": 427,
+      "bytes": 13650,
+      "frontmatter": true,
+      "sections_1_to_12": true,
+      "code_fences_balanced": true,
+      "language_navigation": true
+    },
+    "SKILL.en.md": {
+      "lines": 427,
+      "bytes": 14131,
+      "frontmatter": true,
+      "sections_1_to_12": true,
+      "code_fences_balanced": true,
+      "language_navigation": true
+    },
+    "SKILL.ja.md": {
+      "lines": 426,
+      "bytes": 14396,
+      "frontmatter": true,
+      "sections_1_to_12": true,
+      "code_fences_balanced": true,
+      "language_navigation": true
+    },
+    "SKILL.zh-CN.md": {
+      "lines": 427,
+      "bytes": 12464,
+      "frontmatter": true,
+      "sections_1_to_12": true,
+      "code_fences_balanced": true,
+      "language_navigation": true
+    }
+  },
+  "examples": {
+    "default": "EXAMPLES.md",
+    "ko": "EXAMPLES.ko.md",
+    "en": "EXAMPLES.en.md",
+    "ja": "EXAMPLES.ja.md",
+    "zh-CN": "EXAMPLES.zh-CN.md"
+  },
+  "tests": {
+    "default": "TESTS.md",
+    "ko": "TESTS.ko.md",
+    "en": "TESTS.en.md",
+    "ja": "TESTS.ja.md",
+    "zh-CN": "TESTS.zh-CN.md"
+  },
+  "installation": {
+    "default": "INSTALL.md",
+    "ko": "INSTALL.ko.md",
+    "en": "INSTALL.en.md",
+    "ja": "INSTALL.ja.md",
+    "zh-CN": "INSTALL.zh-CN.md"
+  },
+  "distribution_packages": {
+    "ko": "packages/negative-first-mesh-ko.zip",
+    "en": "packages/negative-first-mesh-en.zip",
+    "ja": "packages/negative-first-mesh-ja.zip",
+    "zh-CN": "packages/negative-first-mesh-zh-CN.zip"
+  },
+  "official_docs_verified_at": "2026-07-24",
+  "validation_current": {
+    "SKILL.en.md": {
+      "bytes": 14131,
+      "lines": 427,
+      "fences_balanced": true
+    },
+    "INSTALL.md": {
+      "bytes": 9418,
+      "lines": 328,
+      "fences_balanced": true
+    },
+    "README.ja.md": {
+      "bytes": 32067,
+      "lines": 1139,
+      "fences_balanced": true
+    },
+    "INSTALL.en.md": {
+      "bytes": 7091,
+      "lines": 280,
+      "fences_balanced": true
+    },
+    "README.md": {
+      "bytes": 30438,
+      "lines": 1139,
+      "fences_balanced": true
+    },
+    "TESTS.md": {
+      "bytes": 3362,
+      "lines": 174,
+      "fences_balanced": true
+    },
+    "EXAMPLES.ko.md": {
+      "bytes": 5814,
+      "lines": 174,
+      "fences_balanced": true
+    },
+    "SKILL.ko.md": {
+      "bytes": 13650,
+      "lines": 427,
+      "fences_balanced": true
+    },
+    "README.ko.md": {
+      "bytes": 30438,
+      "lines": 1139,
+      "fences_balanced": true
+    },
+    "README.zh-CN.md": {
+      "bytes": 28055,
+      "lines": 1139,
+      "fences_balanced": true
+    },
+    "EXAMPLES.ja.md": {
+      "bytes": 4416,
+      "lines": 100,
+      "fences_balanced": true
+    },
+    "SKILL.md": {
+      "bytes": 13650,
+      "lines": 427,
+      "fences_balanced": true
+    },
+    "EXAMPLES.en.md": {
+      "bytes": 4733,
+      "lines": 158,
+      "fences_balanced": true
+    },
+    "SKILL.ja.md": {
+      "bytes": 14396,
+      "lines": 426,
+      "fences_balanced": true
+    },
+    "TESTS.ko.md": {
+      "bytes": 3362,
+      "lines": 174,
+      "fences_balanced": true
+    },
+    "TESTS.en.md": {
+      "bytes": 3207,
+      "lines": 174,
+      "fences_balanced": true
+    },
+    "EXAMPLES.zh-CN.md": {
+      "bytes": 3741,
+      "lines": 100,
+      "fences_balanced": true
+    },
+    "TESTS.zh-CN.md": {
+      "bytes": 1878,
+      "lines": 67,
+      "fences_balanced": true
+    },
+    "INSTALL.zh-CN.md": {
+      "bytes": 5647,
+      "lines": 246,
+      "fences_balanced": true
+    },
+    "SKILL.zh-CN.md": {
+      "bytes": 12464,
+      "lines": 427,
+      "fences_balanced": true
+    },
+    "EXAMPLES.md": {
+      "bytes": 5814,
+      "lines": 174,
+      "fences_balanced": true
+    },
+    "TESTS.ja.md": {
+      "bytes": 2182,
+      "lines": 67,
+      "fences_balanced": true
+    },
+    "README.en.md": {
+      "bytes": 31526,
+      "lines": 1139,
+      "fences_balanced": true
+    },
+    "INSTALL.ko.md": {
+      "bytes": 9418,
+      "lines": 328,
+      "fences_balanced": true
+    },
+    "INSTALL.ja.md": {
+      "bytes": 6165,
+      "lines": 244,
+      "fences_balanced": true
+    }
+  }
+}
